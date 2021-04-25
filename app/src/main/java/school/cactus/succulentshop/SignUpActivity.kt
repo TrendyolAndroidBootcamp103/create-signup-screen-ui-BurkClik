@@ -14,7 +14,7 @@ class SignUpActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         supportActionBar?.title = "Sign Up"
-
+        
     }
 
     private fun navigateToLoginActivity() {
