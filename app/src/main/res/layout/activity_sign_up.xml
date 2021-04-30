@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="16dp"
-    tools:context=".SignUpActivity">
+    tools:context=".signup.SignUpActivity">
 
     <!-- Resource ve id isimlendirmesi
     https://github.com/Trendyol/android-guidelines/blob/master/resource_naming_guideline/resource_naming_guideline.md

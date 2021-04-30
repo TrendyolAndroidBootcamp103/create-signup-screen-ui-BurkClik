@@ -10,9 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SucculentShop">
         <activity
-            android:name=".SignUpActivity"
-            android:exported="true" />
-        <activity android:name=".LoginActivity">
+            android:name=".signup.SignUpActivity"
+            android:exported="true"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".LoginActivity"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
